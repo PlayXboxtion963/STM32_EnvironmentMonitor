@@ -4,4 +4,3 @@
 ----------------------------------------------------------------------
 STM32F103ZET6的课程设计，用到了UART，GPIO，ADC，和一些简单的C语言逻辑。
 
-![image](https://user-images.githubusercontent.com/98201865/194974035-80bda863-9b28-4579-b819-7ebae4c3acee.png)
